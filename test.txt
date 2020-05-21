@@ -1,0 +1,8 @@
+Warsaw-PL,Berlin-DE
+Warsaw-PL,Prague-CZ
+Warsaw-PL,Paris-FR
+Berlin-DE,
+Prague-CZ,
+Rome-IT,
+Paris-FR,
+Ternopil'-UA,
