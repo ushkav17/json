@@ -3,6 +3,7 @@ Warsaw-PL,Prague-CZ
 Warsaw-PL,Paris-FR
 Berlin-DE,
 Prague-CZ,
-Rome-IT,Prague-CZ,Paris-FR
+Rome-IT,Prague-CZ
+Rome-IT,Paris-FR
 Paris-FR,
 Ternopil'-UA,
