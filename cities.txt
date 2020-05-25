@@ -8,5 +8,7 @@ Rome-IT,Paris-FR
 Paris-FR,
 Ternopil'-UA,
 Paris-FR,Ternopil'-UA
-Barcelona-ES,
+Barcelona-ES,Warsaw-PL
+Barcelona-ES,Kyiv-UA
+Barcelona-ES,Prague-CZ
 Kyiv-UA,Berlin-DE
