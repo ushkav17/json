@@ -1,11 +1,9 @@
 Warsaw-PL,Berlin-DE
 Warsaw-PL,Prague-CZ
 Warsaw-PL,Paris-FR
-Berlin-DE,
 Prague-CZ,Berlin-DE
 Rome-IT,Prague-CZ
 Rome-IT,Paris-FR
-Ternopil'-UA,
 Paris-FR,Ternopil'-UA
 Barcelona-ES,Warsaw-PL
 Barcelona-ES,Kyiv-UA
