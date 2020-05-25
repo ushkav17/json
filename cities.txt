@@ -9,4 +9,4 @@ Paris-FR,
 Ternopil'-UA,
 Paris-FR,Ternopil'-UA
 Barcelona-ES,
-Kyiv-UA
+Kyiv-UA,Berlin-DE
