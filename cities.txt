@@ -5,7 +5,6 @@ Berlin-DE,
 Prague-CZ,Berlin-DE
 Rome-IT,Prague-CZ
 Rome-IT,Paris-FR
-Paris-FR,
 Ternopil'-UA,
 Paris-FR,Ternopil'-UA
 Barcelona-ES,Warsaw-PL
