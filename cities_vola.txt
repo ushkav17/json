@@ -1,0 +1,11 @@
+Warsaw-PL,Berlin-DE,https://www.vola.ro/bilete-avion/din-Warszawa-WAW/catre-Berlin-BER/
+Warsaw-PL,Prague-CZ,https://www.vola.ro/bilete-avion/din-Warszawa-WAW/catre-Praga-PRG/
+Warsaw-PL,Paris-FR,https://www.vola.ro/bilete-avion/din-Warszawa-WAW/catre-Paryz-PAR/
+Prague-CZ,Berlin-DE,https://www.vola.ro/bilete-avion/din-Praga-PRG/catre-Berlin-BER/
+Rome-IT,Prague-CZ,https://www.vola.ro/bilete-avion/din-Rzym-ROM/catre-Praga-PRG/
+Rome-IT,Paris-FR,https://www.vola.ro/bilete-avion/din-Rzym-ROM/catre-Paryz-PAR/
+Paris-FR,Ternopil'-UA,https://www.vola.ro/bilete-avion/din-Paryz-PAR/catre-Taranto-TAR/
+Barcelona-ES,Warsaw-PL,https://www.vola.ro/bilete-avion/din-Barcelona-BCN/catre-Warszawa-WAW/
+Barcelona-ES,Kyiv-UA,https://www.vola.ro/bilete-avion/din-Barcelona-BCN/catre-Kijow-IEV/
+Barcelona-ES,Prague-CZ,https://www.vola.ro/bilete-avion/din-Barcelona-BCN/catre-Praga-PRG/
+Kyiv-UA,Berlin-DE,https://www.vola.ro/bilete-avion/din-Kijow-IEV/catre-Berlin-BER/
