@@ -4532,10 +4532,6 @@
                 }
                 b = null
             }var e = b;
-            if (e) {
-                var f = e.protocol;
-                "http:" !== f && "https:" !== f || ck(e, e.hostname)
-            }
         } catch (g) {}
     }
     function Jj(a) {
